@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--
+    My Custom Batch Installer Manifest File
+    
+-->
+<installer>
+    <!--
+        Addons is a required container for a list of addon username and addon_id pairs.
+        Each container requires both pairs.
+    -->
+    <addons>
+		<!--
+        <addon>
+            <addon_id>plugin.video.adultswim</addon_id>
+            <username>tvaddonsco</username>
+        </addon>
+		-->
+		<addon>
+			<addon_id>plugin.video.tfctv</addon_id>
+            <username>cmik</username>
+        </addon>
+		<addon>
+			<addon_id>plugin.video.youtube</addon_id>
+            <username>jdf76</username>
+        </addon>
+    </addons>
+    
+</installer>
