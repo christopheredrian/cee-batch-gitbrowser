@@ -10,7 +10,7 @@
     -->
     <addons>
 		<!--
-        <addon>
+        <addon> 
             <addon_id>plugin.video.adultswim</addon_id>
             <username>tvaddonsco</username>
         </addon>
