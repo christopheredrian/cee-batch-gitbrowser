@@ -28,5 +28,7 @@
             <username>christopheredrian</username>
         </addon>
     </addons>
-    
+    <builtins>
+        <command>InstallAddon(plugin.video.bangonpinoy)</command>
+    </builtins>    
 </installer>
