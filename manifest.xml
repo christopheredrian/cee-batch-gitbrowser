@@ -24,6 +24,10 @@
             <username>jdf76</username>
         </addon>
         <addon>
+            <addon_id>plugin.video.exodus</addon_id>
+            <username>kodil</username>
+        </addon>
+        <addon>
             <addon_id>repository.skymashitv</addon_id>
             <username>christopheredrian</username>
         </addon>
